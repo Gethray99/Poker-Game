@@ -1,0 +1,7 @@
+﻿  Source.cpp
+E:\japura engineering\Semester 4\Programming Quest\Assignment 04\Assignment 04\Assignment 04\Source.cpp(18,18): warning C4101: 'max_final': unreferenced local variable
+E:\japura engineering\Semester 4\Programming Quest\Assignment 04\Assignment 04\Assignment 04\Source.cpp(45,23): warning C4101: 'playerscore2': unreferenced local variable
+E:\japura engineering\Semester 4\Programming Quest\Assignment 04\Assignment 04\Assignment 04\Source.cpp(45,6): warning C4101: 'playerscore1': unreferenced local variable
+E:\japura engineering\Semester 4\Programming Quest\Assignment 04\Assignment 04\Assignment 04\Source.cpp(45,40): warning C4101: 'playerscore3': unreferenced local variable
+E:\japura engineering\Semester 4\Programming Quest\Assignment 04\Assignment 04\Assignment 04\Source.cpp(45,57): warning C4101: 'playerscore4': unreferenced local variable
+  Assignment 04.vcxproj -> E:\japura engineering\Semester 4\Programming Quest\Assignment 04\Assignment 04\Debug\Assignment 04.exe
